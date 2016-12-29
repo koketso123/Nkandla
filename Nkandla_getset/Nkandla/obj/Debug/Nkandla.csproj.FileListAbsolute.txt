@@ -1,0 +1,12 @@
+c:\users\bbdnet1523\documents\visual studio 2015\Projects\Nkandla\Nkandla\bin\Debug\Nkandla.exe.config
+c:\users\bbdnet1523\documents\visual studio 2015\Projects\Nkandla\Nkandla\bin\Debug\Nkandla.exe
+c:\users\bbdnet1523\documents\visual studio 2015\Projects\Nkandla\Nkandla\bin\Debug\Nkandla.pdb
+c:\users\bbdnet1523\documents\visual studio 2015\Projects\Nkandla\Nkandla\obj\Debug\Nkandla.csprojResolveAssemblyReference.cache
+c:\users\bbdnet1523\documents\visual studio 2015\Projects\Nkandla\Nkandla\obj\Debug\Nkandla.exe
+c:\users\bbdnet1523\documents\visual studio 2015\Projects\Nkandla\Nkandla\obj\Debug\Nkandla.pdb
+C:\Users\bbdnet1523\Documents\Visual Studio 2015\Projects\Nkandla_getset\Nkandla\bin\Debug\Nkandla.exe.config
+C:\Users\bbdnet1523\Documents\Visual Studio 2015\Projects\Nkandla_getset\Nkandla\obj\Debug\Nkandla.exe
+C:\Users\bbdnet1523\Documents\Visual Studio 2015\Projects\Nkandla_getset\Nkandla\obj\Debug\Nkandla.pdb
+C:\Users\bbdnet1523\Documents\Visual Studio 2015\Projects\Nkandla_getset\Nkandla\bin\Debug\Nkandla.exe
+C:\Users\bbdnet1523\Documents\Visual Studio 2015\Projects\Nkandla_getset\Nkandla\bin\Debug\Nkandla.pdb
+C:\Users\bbdnet1523\Documents\Visual Studio 2015\Projects\Nkandla_getset\Nkandla\obj\Debug\Nkandla.csprojResolveAssemblyReference.cache

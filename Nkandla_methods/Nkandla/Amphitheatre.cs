@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Nkandla
+{
+    class Amphitheatre
+    {
+        private int numberOfSeats;
+        
+        public Amphitheatre()
+        {
+
+        }
+
+        public void setNumberOfSeats(int numberOfSeats)
+        {
+            this.numberOfSeats = numberOfSeats;
+        }
+
+        public int getNumberOfSeats()
+        {
+            return this.numberOfSeats;
+        }
+    }
+}

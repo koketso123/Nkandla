@@ -1,0 +1,45 @@
+Make use of methods to get and set the properties of the following:
+
+A HomeStead has a 
+•         Name
+•         District
+•         Province
+•         Country
+
+Nkandla is a HomeStead
+Nkandla has a
+•         Swimming pool
+•         Chicken run
+•         Amphitheatre
+
+A SwimmingPool has accept
+•         Width
+•         Height
+
+A ChickenRun has a 
+•         number of chickens
+
+A Amphitheatre has a 
+•         number of seats
+
+A person has a
+•         Name
+•         Age
+•         Gender
+•         Type
+
+Politician is a specialized type of person which has a
+•         Party
+
+Jacob Zuma is a politician
+Jacob Zuma has a
+•         Lawyer (Person)
+•         Architect (Person)
+
+A visitor is an interface that takes in a person and a homestead 
+and a “visit(HomeStead)” method
+Helen Zille is a politician and implements the visitor interface
+Julius Malema is a politician and implements the visitor interface
+
+A homestead has an accept method that takes in a visitor and calls  “visit(this)” 
+Nkandla should only accept visitors from with the correct political party 

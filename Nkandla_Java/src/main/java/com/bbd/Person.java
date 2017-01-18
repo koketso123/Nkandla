@@ -4,7 +4,7 @@ package com.bbd;
  * Created by bbdnet1523 on 2016/12/06.
  */
 @SuppressWarnings("DefaultFileTemplate")
-class Person {
+abstract class Person {
 
     private String name;
     private int age;
